@@ -8,7 +8,7 @@ I am learning Low-Level Design so those done will be marked blue in the below re
 ## Table of Contents
 
 1. [S.O.L.I.D Principles](https://github.com/AbhishekCS3459/LLD-Complete-in-Java/tree/main/DAY1_SOLID)
-2. Strategy Pattern
+2. [Strategy Pattern](https://github.com/AbhishekCS3459/LLD-Complete-in-Java/tree/main/DAY2_STRATEGY_DESIGN)
 3. Observer Pattern
 4. Design Notify-Me Button Functionality
 5. Decorator Pattern
